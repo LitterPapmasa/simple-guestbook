@@ -1,0 +1,35 @@
+#review-table tr td{padding: 3px;    
+}
+
+.comment {border-color: red;}
+
+.forjambo{
+    border: #269abc solid 2px;
+    padding: 3px;
+    border-radius:10px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+.mail {    
+    text-align: center;
+    font-size: 0.8em;
+    color:#ff6633;
+}
+.pubdate {    
+    text-align: center;
+    font-size: 0.7em;
+    color:#999;
+}
+.name{
+    text-align: center;
+    font-weight: 700;
+    border-bottom: #269abc solid 2px;
+}
+
+.forjambo2{
+    
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+        
+}
+
